@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ImagePreview from "./Components/ImagePreviewArea/ImagePreview";
 import Checkout from "./Components/CheckoutArea/Checkout";
-import Transition from 'react-transition-group/Transition';
+import Transition from 'react-addons-css-transition-group';
 import "./App.css";
 
 const Overlay = ({ image }) => {
