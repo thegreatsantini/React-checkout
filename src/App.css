@@ -244,9 +244,9 @@ header {
   outline: none;
 }
 .ExpiryDate select {
-  /* -webkit-appearance: none;
+  -webkit-appearance: none;
      -moz-appearance: none;
-          appearance: none; */
+          appearance: none;
   -webkit-box-flex: 1;
   -webkit-flex: 1 0 auto;
       -ms-flex: 1 0 auto;
